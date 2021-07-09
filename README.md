@@ -12,11 +12,9 @@ http://roycekimmons.com/tools/generated_data/exams
 Inspiration
 To understand the influence of the parents background, test preparation etc on students performance
 
-Usage
+# Usage
 Run each python file by python file_name.py
 
-Dependencies
+# Dependencies
 Install scikit-learn, Theano, TensorFlow, Keras using pip install library_name
 
-plt.figure(figsize=(10,10))
-sns.heatmap(data.corr(), annot=True, cmap='twilight_shifted');
